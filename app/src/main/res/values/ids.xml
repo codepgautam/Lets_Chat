@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id" />
+    <item name="back_arrow" type="id" />
+    <item name="calls" type="id" />
+    <item name="videocall" type="id" />
+    <item name="chat_menu" type="id" />
+    <item name="chat_recycler_view" type="id" />
+    <item name="send" type="id" />
+</resources>
